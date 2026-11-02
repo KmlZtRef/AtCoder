@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Documents/VSCode/C++/AlgorithmTraining/AtCoder/ABC481",
-      "program": "d:/Documents/VSCode/C++/AlgorithmTraining/AtCoder/ABC481/build/Debug/outDebug",
+      "cwd": "d:/Documents/VSCode/C++/AlgorithmTraining/AtCoder/ABC482",
+      "program": "d:/Documents/VSCode/C++/AlgorithmTraining/AtCoder/ABC482/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
